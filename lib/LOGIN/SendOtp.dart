@@ -6,8 +6,8 @@ import 'dart:convert';
 import 'package:internship1/LOGIN/VerifyOtp.dart';
 
 class OTPService {
-  final String accountSid = 'ACe32d201b9e70eb69608da3703e9996ac';
-  final String authToken = 'a1f07bf92425698fa7c71a30521b3d22';
+  final String accountSid = 'ACe32d201b9exxxxxxxxxxx3703e9996ac';
+  final String authToken = 'a1f07bf92425698fa7cxxxxxxxx21b3d22';
   final String twilioNumber = '+18597803908';
 
   String generateOtp() {
